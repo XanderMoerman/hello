@@ -1,2 +1,2 @@
-# hello briek
-# why you copy my shit :(
+hello  
+why you copy my code :(
